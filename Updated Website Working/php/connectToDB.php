@@ -1,8 +1,8 @@
 <?PHP
-$servername = "sql.hiwaay.net";
-$username = "Administrator";
-$password = "irondale9";
-$dbName = "irondale_com_testDB";
+$servername = "";
+$username = "";
+$password = "";
+$dbName = "";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbName);
 

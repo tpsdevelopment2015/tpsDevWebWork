@@ -1,6 +1,6 @@
 <?php
-$username = "admin"; //Change to whatever you want your username to be
-$password = "irondale9"; //Change to whatever you want your password to be
+$username = ""; //Change to whatever you want your username to be
+$password = ""; //Change to whatever you want your password to be
 
 if(isset($_POST['submit'])){
 	if($_POST['username'] == $username && $_POST['password'] == $password){
